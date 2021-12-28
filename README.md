@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AutoComplete</h1>
 <h3 align="center">A developer from Germany who tries everything 🔭</h3>
 
-- 🤝 I’m administrator at **royalpixels.de**
+- 🤝 Currently administrator at **royalpixels.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
