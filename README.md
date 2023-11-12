@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AutoComplete</h1>
 <h3 align="center">A developer from Germany who tries everything 🔭</h3>
 
-- 🤝 Currently administrator at **royalpixels.de**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/autocomplete_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="autocomplete_" height="30" width="40" /></a>
